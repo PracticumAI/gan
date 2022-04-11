@@ -1,5 +1,7 @@
-Resources and presentations for the Generative Adversarial Neural Network workshop.
+### Workshop Learning Objectives (*Generative Adversarial Networks*)
 
-***
-#### Links
-[Andrew Glassner Notebooks](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/tree/main/Notebooks)
+1. Operationally define generative adversarial networks (GANs).
+2. Describe the purpose of GANs.
+3. Discuss use cases of GANs.
+4. Describe the generator.
+5. Describe the discriminator.
